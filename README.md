@@ -1,7 +1,7 @@
 spotify acrostic
 ==============================
 
-Building personalized acrostics
+Building personalized playlists for roadtrips
 
 Project Organization
 ------------
